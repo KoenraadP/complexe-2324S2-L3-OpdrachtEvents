@@ -1,0 +1,10 @@
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\bin\Debug\opdracht_events.exe.config
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\bin\Debug\opdracht_events.exe
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\bin\Debug\opdracht_events.pdb
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\obj\Debug\opdracht_events.csproj.AssemblyReference.cache
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\obj\Debug\opdracht_events.Form1.resources
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\obj\Debug\opdracht_events.Properties.Resources.resources
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\obj\Debug\opdracht_events.csproj.GenerateResource.cache
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\obj\Debug\opdracht_events.csproj.CoreCompileInputs.cache
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\obj\Debug\opdracht_events.exe
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\opdracht_events\opdracht_events\obj\Debug\opdracht_events.pdb
